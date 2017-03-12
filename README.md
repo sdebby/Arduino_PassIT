@@ -27,3 +27,4 @@ https://github.com/coopermaa/USBKeyboard/tree/master/firmware
 Limitations:
 1. Text file containes only 1 line.
 2. maximum text length will be 15 charecters long.
+
