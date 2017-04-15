@@ -24,6 +24,9 @@ https://www.arduino.cc/en/Hacking/DFUProgramming8U2
 Flashig Arduino with coopermaa USB HID flash:
 https://github.com/coopermaa/USBKeyboard/tree/master/firmware
 
+Youtube:
+https://youtu.be/eHl4A1D0S90
+
 Limitations:
 1. Text file containes only 1 line.
 2. maximum text length will be 15 charecters long.
