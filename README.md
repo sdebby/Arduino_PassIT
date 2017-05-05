@@ -27,6 +27,9 @@ https://github.com/coopermaa/USBKeyboard/tree/master/firmware
 # Youtube:
 https://youtu.be/eHl4A1D0S90
 
+# Schematics
+![N|Schemaic image](https://github.com/sdebby/Arduino_PassIT/blob/master/PassIt_v0.jpg)
+
 # Limitations:
 1. Text file containes only 1 line.
 2. maximum text length will be 15 charecters long.
