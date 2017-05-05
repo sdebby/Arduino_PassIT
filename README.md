@@ -1,4 +1,4 @@
-# PassIT
+# Arduino PassIT
 Arduino programed USB HID strikes.
 
 This arduino program will get the text from the mypass.txt file in the SD Card.
@@ -10,11 +10,11 @@ Led goes off.
 Strike the decrypted text as keyboard HID.
 Hit Enter at the end.
 
--------------------------------------------
-Using Arduino uno R3.
-and SD Card breakout :
-https://www.sparkfun.com/products/12941
+# Hardware
+* Arduino uno R3.
+* SD Card [breakout](https://www.sparkfun.com/products/12941)
 
+# Libraries
 DavyLandman Arduino AES encryption labrary:
 https://github.com/DavyLandman/AESLib
 
@@ -24,9 +24,9 @@ https://www.arduino.cc/en/Hacking/DFUProgramming8U2
 Flashig Arduino with coopermaa USB HID flash:
 https://github.com/coopermaa/USBKeyboard/tree/master/firmware
 
-Youtube:
+# Youtube:
 https://youtu.be/eHl4A1D0S90
 
-Limitations:
+# Limitations:
 1. Text file containes only 1 line.
 2. maximum text length will be 15 charecters long.
